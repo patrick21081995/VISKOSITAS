@@ -5,4 +5,4 @@ VISKOSITAS Beta is a shallow neural network and has better efficiency when compa
 
 Contact
 - E-mail: patrick.dosanjos@outlook.com
-- Linkedin: patrick21081995/patrick21081995
+- Linkedin: https://www.linkedin.com/in/patrick-queiroz-dos-anjos/
