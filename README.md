@@ -12,8 +12,19 @@ Data from Yang et al. (2021) were used as test data to evaluate the efficiency o
 
 https://docs.google.com/spreadsheets/d/1Vj4jJJGjt5PAQSB21vI7Gfywjm5t-Feh/edit?usp=sharing&ouid=117196539981136650965&rtpof=true&sd=true
 
-A GUI application (VISKOSITAS — Beta) can be downloaded soon!
+All references used in mathematical and computational modeling, database, data analysis and computational model construction can be seen in the work of Duchesne et al. (2013) and/or Anjos undergratuate thesis (2021).
 
-Contact
+#### A GUI application (VISKOSITAS — Beta) can be downloaded soon!
+
+Contact:
+
 - E-mail: patrick.dosanjos@outlook.com
 - Linkedin: https://www.linkedin.com/in/patrick-queiroz-dos-anjos/
+
+References:
+
+- Anjos, Patrick Queiroz dos. Undergratuate Thesis. Ifes, Vitória, p. 51-52, 2021. https://repositorio.ifes.edu.br/handle/123456789/1195
+
+- Ding Yang, Hanghang Zhou, Jian Wang, Zhengde Pang, Guishang Pei, Zhiming Yan, Hongxia Mao, Guibao Qiu, Xuewei Lv. Journal of Materials Research and Technology p. 1615-1622, 12, 2021. https://doi.org/10.1016/j.jmrt.2021.03.069
+
+- Duchesne, M., Bronsch, A., Hughes, R., Masset, P. Fuel. p. 38-43, v. 114, 2013. http://dx.doi.org/10.1016/j.fuel.2012.03.010
