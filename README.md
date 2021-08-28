@@ -12,6 +12,8 @@ Data from Yang et al. (2021) were used as test data to evaluate the efficiency o
 
 https://docs.google.com/spreadsheets/d/1Vj4jJJGjt5PAQSB21vI7Gfywjm5t-Feh/edit?usp=sharing&ouid=117196539981136650965&rtpof=true&sd=true
 
+A GUI application (VISKOSITAS — Beta) can be downloaded soon!
+
 Contact
 - E-mail: patrick.dosanjos@outlook.com
 - Linkedin: https://www.linkedin.com/in/patrick-queiroz-dos-anjos/
