@@ -18,8 +18,8 @@ All references used in mathematical and computational modeling, database, data a
 
 0.2.0 (October 10th, 2021)
 
-— Fixed a bug in time (t (s)) related in high percentage/mass fraction in V₂O₅ (vanadium pentoxide).
-— Decreasing the time execution.
+- Fixed a bug in time (t (s)) related in high percentage/mass fraction in V₂O₅ (vanadium pentoxide).
+- Decreasing the time execution.
 
 Contact:
 
