@@ -42,4 +42,3 @@ References:
 - Duchesne, M., Bronsch, A., Hughes, R., Masset, P. Fuel. p. 38-43, v. 114, 2013. http://dx.doi.org/10.1016/j.fuel.2012.03.010
 
 - Nick Kunz, 2019. Licensed under the General Public License v3.0 (GPLv3). https://github.com/nickkunz/smogn
-![Design sem nome - 2020-12-25T004054 652](https://user-images.githubusercontent.com/72185214/137602821-6b07153f-bdda-4197-b20d-d9ddaf7f0b15.png)
