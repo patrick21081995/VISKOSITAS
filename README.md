@@ -21,6 +21,13 @@ All references used in mathematical and computational modeling, database, data a
 - Fixed a bug in time (t (s)) related in high percentage/mass fraction in V₂O₅ (vanadium pentoxide).
 - Decreasing the time execution.
 
+0.3.0 (October 16th, 2021)
+
+- Added 30 lines for calculating viscosity.
+- Using Cut, Copy and Delete in the Edit menu. There is also the Paste mechanism (classic "Ctrl+C Ctrl+V") in the application.
+- Button "Calculate Viscosity (log η)" in the main menu.
+- Time execution (t (s) ) in the bottom of the application. Decreasing the time execution.
+
 Contact:
 
 - E-mail: patrick.dosanjos@outlook.com
@@ -35,3 +42,4 @@ References:
 - Duchesne, M., Bronsch, A., Hughes, R., Masset, P. Fuel. p. 38-43, v. 114, 2013. http://dx.doi.org/10.1016/j.fuel.2012.03.010
 
 - Nick Kunz, 2019. Licensed under the General Public License v3.0 (GPLv3). https://github.com/nickkunz/smogn
+![Design sem nome - 2020-12-25T004054 652](https://user-images.githubusercontent.com/72185214/137602821-6b07153f-bdda-4197-b20d-d9ddaf7f0b15.png)
