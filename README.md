@@ -14,7 +14,7 @@ https://docs.google.com/spreadsheets/d/1Vj4jJJGjt5PAQSB21vI7Gfywjm5t-Feh/edit?us
 
 All references used in mathematical and computational modeling, database, data analysis and computational model construction can be seen in the work of Duchesne et al. (2013) and/or Anjos undergratuate thesis (2021). The synthetic minority oversampling technique for regression with Gaussian noise (SMOGN) (SEE References below) was used as an over-sampling technique to balance the data.
 
-A GUI application (VISKOSITAS — Beta) can be downloaded in VISKOSITAS_Beta_0.2.0.exe!!!
+A GUI application (VISKOSITAS — Beta) can be downloaded in VISKOSITAS_Beta_0.3.0.exe!!!
 
 0.2.0 (October 10th, 2021)
 
@@ -43,6 +43,6 @@ References:
 
 - Nick Kunz, 2019. Licensed under the General Public License v3.0 (GPLv3). https://github.com/nickkunz/smogn
 
-### VISKOSITAS 0.3.0 overview:
+### VISKOSITAS 0.3.0 (Beta) overview:
 
 ![Sem título](https://user-images.githubusercontent.com/72185214/137604144-43d846c6-3eac-4b91-9446-387e6dfc431f.png)
