@@ -43,7 +43,6 @@ References:
 
 - Nick Kunz, 2019. Licensed under the General Public License v3.0 (GPLv3). https://github.com/nickkunz/smogn
 
-### VISKOSITAS 0.3.0 overview
-
+### VISKOSITAS 0.3.0 overview:
 
 ![Sem título](https://user-images.githubusercontent.com/72185214/137604144-43d846c6-3eac-4b91-9446-387e6dfc431f.png)
