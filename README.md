@@ -28,6 +28,13 @@ A GUI application can be downloaded in VISKOSITAS_Beta_0.3.0.exe!!!
 - Button "Calculate Viscosity (log η)" in the main menu.
 - Time execution (t (s) ) in the bottom of the application. Decreasing the time execution.
 
+0.3.1 (October 28th, 2021)
+
+- Float numbers can be used as input data (chemical composition and temperature). Viscosity (log η) with 4 decimal numbers.
+- Unlocking the Open and Save options in File in the main menu.
+- Added Multi-VISKOSITAS mode (only in FULL version).
+- Decreasing the time execution.
+
 Contact:
 
 - E-mail: patrick.dosanjos@outlook.com
@@ -43,6 +50,6 @@ References:
 
 - Nick Kunz, 2019. Licensed under the General Public License v3.0 (GPLv3). https://github.com/nickkunz/smogn
 
-### VISKOSITAS 0.3.0 (Beta) overview:
+### VISKOSITAS 0.3.1 (Beta) overview:
 
-![Sem título](https://user-images.githubusercontent.com/72185214/137604144-43d846c6-3eac-4b91-9446-387e6dfc431f.png)
+![Sem título](https://user-images.githubusercontent.com/72185214/139360878-36e3132f-84d8-4851-b69c-1474425db0ff.png)
