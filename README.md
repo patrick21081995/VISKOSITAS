@@ -22,6 +22,7 @@ A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.0.exe!!!
 - time execution ("Time excution(s)"), at the bottom of the application, can now be copied and pasted to check the speed of VISKOSITAS.
 - addition of 1 more example, in Steelmaking, in a slag SiO₂-CaO-MgO-Al₂O₃.
 - in the Help menu, the options are introduced: - "Base File (.csv)", where a file can be downloaded to be used as a basis for VISKOSITAS calculations; - Errors and Exceptions, introducing errors and exceptions in the programming and GUI of VISKOSITAS.
+
 (other updates can be seen in versions_upate)
 
 Contact:
