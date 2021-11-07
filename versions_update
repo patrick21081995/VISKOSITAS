@@ -1,0 +1,20 @@
+Versions Updates:
+
+0.2.0 (October 10th, 2021)
+
+- Fixed a bug in time (t (s)) related in high percentage/mass fraction in V₂O₅ (vanadium pentoxide).
+- Decreasing the time execution.
+
+0.3.0 (October 16th, 2021)
+
+- Added 30 lines for calculating viscosity.
+- Using Cut, Copy and Delete in the Edit menu. There is also the Paste mechanism (classic "Ctrl+C Ctrl+V") in the application.
+- Button "Calculate Viscosity (log η)" in the main menu.
+- Time execution (t (s) ) in the bottom of the application. Decreasing the time execution.
+
+0.3.1 (October 28th, 2021)
+
+- Float numbers can be used as input data (chemical composition and temperature). Viscosity (log η) with 4 decimal numbers.
+- Unlocking the Open and Save options in File in the main menu.
+- Added Multi-VISKOSITAS mode (only in FULL version).
+- Decreasing the time execution.
