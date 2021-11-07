@@ -14,26 +14,15 @@ https://docs.google.com/spreadsheets/d/1Vj4jJJGjt5PAQSB21vI7Gfywjm5t-Feh/edit?us
 
 All references used in mathematical and computational modeling, database, data analysis and computational model construction can be seen in the work of Duchesne et al. (2013) and/or Anjos undergratuate thesis (2021). The synthetic minority oversampling technique for regression with Gaussian noise (SMOGN) (SEE References below) was used as an over-sampling technique to balance the data.
 
-A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.3.1.exe!!!
+A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.0.exe!!!
 
-0.2.0 (October 10th, 2021)
+0.4.0 (November 7th, 2021)
 
-- Fixed a bug in time (t (s)) related in high percentage/mass fraction in V₂O₅ (vanadium pentoxide).
-- Decreasing the time execution.
-
-0.3.0 (October 16th, 2021)
-
-- Added 30 lines for calculating viscosity.
-- Using Cut, Copy and Delete in the Edit menu. There is also the Paste mechanism (classic "Ctrl+C Ctrl+V") in the application.
-- Button "Calculate Viscosity (log η)" in the main menu.
-- Time execution (t (s) ) in the bottom of the application. Decreasing the time execution.
-
-0.3.1 (October 28th, 2021)
-
-- Float numbers can be used as input data (chemical composition and temperature). Viscosity (log η) with 4 decimal numbers.
-- Unlocking the Open and Save options in File in the main menu.
-- Added Multi-VISKOSITAS mode (only in FULL version).
-- Decreasing the time execution.
+- use of 20 lines, instead of 30 lines of the previous version, inducing greater performance and reducing execution time;
+- time execution ("Time excution(s)"), at the bottom of the application, can now be copied and pasted to check the speed of VISKOSITAS.
+- addition of 1 more example, in Steelmaking, in a slag SiO₂-CaO-MgO-Al₂O₃.
+- in the Help menu, the options are introduced: - "Base File (.csv)", where a file can be downloaded to be used as a basis for VISKOSITAS calculations; - Errors and Exceptions, introducing errors and exceptions in the programming and GUI of VISKOSITAS.
+(other updates can be seen in versions_upate)
 
 Contact:
 
@@ -50,6 +39,6 @@ References:
 
 - Nick Kunz, 2019. Licensed under the General Public License v3.0 (GPLv3). https://github.com/nickkunz/smogn
 
-### VISKOSITAS 0.3.1 (Beta) overview:
+### VISKOSITAS 0.4.0 (Beta) overview:
 
-![Sem título](https://user-images.githubusercontent.com/72185214/139360878-36e3132f-84d8-4851-b69c-1474425db0ff.png)
+![Sem título](https://user-images.githubusercontent.com/72185214/140663778-b15dc2c0-933a-4b8d-8854-0ac94e42ba62.png)
