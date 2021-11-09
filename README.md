@@ -25,7 +25,7 @@ References:
 
 - Anjos, Patrick Queiroz dos. Undergratuate Thesis. Ifes, Vitória, p. 51-52, 2021. https://repositorio.ifes.edu.br/handle/123456789/1195
 
-- Ding Yang, Hanghang Zhou, Jian Wang, Zhengde Pang, Guishang Pei, Zhiming Yan, Hongxia Mao, Guibao Qiu, Xuewei Lv. Journal of Materials Research and Technology p. 1615-1622, 12, 2021. https://doi.org/10.1016/j.jmrt.2021.03.069
+- Ding Yang, Hanghang Zhou, Jian Wang, Zhengde Pang, Guishang Pei, Zhiming Yan, Hongxia Mao, Guibao Qiu, Xuewei Lv. Journal of Materials Research and Technology p. 1615-1622, v. 12, 2021. https://doi.org/10.1016/j.jmrt.2021.03.069
 
 - Duchesne, M., Bronsch, A., Hughes, R., Masset, P. Fuel. p. 38-43, v. 114, 2013. http://dx.doi.org/10.1016/j.fuel.2012.03.010
 
