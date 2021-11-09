@@ -29,3 +29,6 @@ Versions Updates:
   The .csv file has 20 different data of Yang et al. (2021) paper (SEE References below);
   - "Errors and Exceptions", introducing errors and exceptions in the programming and GUI of VISKOSITAS.
 
+0.4.1 (November 9th, 2021)
+
+- Minor bug fixes.
