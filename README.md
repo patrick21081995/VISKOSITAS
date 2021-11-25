@@ -16,12 +16,16 @@ All references used in mathematical and computational modeling, database, data a
 
 A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.1.exe (updates can be seen in versions_upate).
 
-Contact:
+# Contact
 
 - E-mail: patrick.dosanjos@outlook.com
 - Linkedin: https://www.linkedin.com/in/patrick-queiroz-dos-anjos/
 
-References:
+# License
+
+© 2021, Patrick Queiroz dos Anjos. Licensed under the MIT License.
+
+# References
 
 - Anjos, Patrick Queiroz dos. Undergratuate Thesis. Ifes, Vitória, p. 51-52, 2021. https://repositorio.ifes.edu.br/handle/123456789/1195
 
