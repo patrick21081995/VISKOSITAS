@@ -1,11 +1,10 @@
 Versions Updates:
 
-0.2.0 (October 10th, 2021)
-
+0.2.0 (October 10th, 2021) (discontinued)
 - Fixed a bug in time (t (s)) related in high percentage/mass fraction in V₂O₅ (vanadium pentoxide).
 - Decreasing the time execution.
 
-0.3.0 (October 16th, 2021)
+0.3.0 (October 16th, 2021) (discontinued)
 
 - Added 30 lines for calculating viscosity.
 - Using Cut, Copy and Delete in the Edit menu. There is also the Paste mechanism (classic "Ctrl+C Ctrl+V") in the application.
