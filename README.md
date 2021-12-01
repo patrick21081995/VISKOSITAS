@@ -12,7 +12,7 @@ Data from Yang et al. (2021) were used as test data to evaluate the efficiency o
 
 https://docs.google.com/spreadsheets/d/1Vj4jJJGjt5PAQSB21vI7Gfywjm5t-Feh/edit?usp=sharing&ouid=117196539981136650965&rtpof=true&sd=true
 
-All references used in mathematical and computational modeling, database, data analysis and computational model construction can be seen in the work of Duchesne et al. (2013) and/or Anjos undergratuate thesis (2021). The synthetic minority oversampling technique for regression with Gaussian noise (SMOGN) (SEE References below) was used as an over-sampling technique to balance the data. In VISKOSITAS.ipynb shows some of the steps of data analysis and statistical testing of the test #### database and in VISKOSITAS_FULL_MODEL.ipynb, the FULL version of VISKOSITAS can be seen, with an accuracy of 13.03% with a performance superior to experimental methods (X).
+All references used in mathematical and computational modeling, database, data analysis and computational model construction can be seen in the work of Duchesne et al. (2013) and/or Anjos undergratuate thesis (2021). The synthetic minority oversampling technique for regression with Gaussian noise (SMOGN) (SEE References below) was used as an over-sampling technique to balance the data. In VISKOSITAS.ipynb shows some of the steps of data analysis and statistical testing of the test database and in VISKOSITAS_FULL_MODEL.ipynb, the FULL version of VISKOSITAS can be seen, with an accuracy of 13.03% with a performance superior to experimental methods (X).
 
 A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.1.exe (updates can be seen in versions_update).
 
@@ -34,6 +34,8 @@ A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.1.exe (upd
 - Duchesne, M., Bronsch, A., Hughes, R., Masset, P. Fuel. p. 38-43, v. 114, 2013. http://dx.doi.org/10.1016/j.fuel.2012.03.010
 
 - Nick Kunz, 2019. Licensed under the General Public License v3.0 (GPLv3). https://github.com/nickkunz/smogn
+
+- S. Vargas, F.J. Frandsen, K. Dam-Johansen. Rheological properties of high-temperature melts of coal ashes and other silicates. Progress in Energy and Combustion Science 27 (2001) 237±429. https://doi.org/10.1016/S0360-1285(00)00023-X
 
 ### VISKOSITAS 0.4.1 (Beta) overview:
 
