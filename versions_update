@@ -26,7 +26,7 @@ Versions Updates:
 - Addition of 1 more example, in Steelmaking, in a slag SiO₂-CaO-MgO-Al₂O₃.
 - In the Help menu, the options are introduced:
   - "Base File (.csv)", where a file can be downloaded to be used as a basis for VISKOSITAS calculations.
-  The .csv file has 20 different data of Yang et al. (2021) paper (SEE References below);
+  The .csv file has 20 different data from Yang et al. (2021) (https://doi.org/10.1016/j.jmrt.2021.03.069);
   - "Errors and Exceptions", introducing errors and exceptions in the programming and GUI of VISKOSITAS.
 
 0.4.1 (November 9th, 2021)
