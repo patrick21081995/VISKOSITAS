@@ -45,7 +45,7 @@ X
 
 - Ziwei Chen, Minghao Wang, Zhao Meng, Hao Wang, Lili Liu, Xidong Wang. Ceramics International. p. 30691-30701, v. 47, 2021. https://doi.org/10.1016/j.ceramint.2021.07.248.
 
-- Anjos, Patrick Queiroz dos. Ifes, Vitória, p. 51-52, 2021. https://repositorio.ifes.edu.br/handle/123456789/1195
+- Anjos, Patrick Queiroz dos. Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo. p. 51-52, 2021. https://repositorio.ifes.edu.br/handle/123456789/1195
 
 - S. Vargas, F.J. Frandsen, K. Dam-Johansen. Progress in Energy and Combustion Science. p. 237±429, v. 27, 2001. https://doi.org/10.1016/S0360-1285(00)00023-X
 
