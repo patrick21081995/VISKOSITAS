@@ -17,7 +17,7 @@ Through a database with 6358 different chemical composition data, temperature an
 The test database can be seen at the link:
 https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0xWNI/edit?usp=sharing.
 
-With the test database (tab _test_data_) predictions were performed in Viskositas 1.x, 12 literature models and in FactSage® 7.2 software (tab _predictions_). Viskositas 1.x showed lower mean absolute error (MAE), lower standard deviation of error and higher coefficient of determination (R²) in relation to models S2, Watt-Fereday, Bomkamp, Riboud (Vargas et al., 2001), Duchesne, ANNliq (Duchesne et al., 2013) and FactSage® 7.2 (tab _metrics_).
+With the test database (tab _test_data_) predictions were performed in Viskositas 1.x, 12 literature models and FactSage® 7.2 software (tab _predictions_). Viskositas 1.x showed lower mean absolute error (MAE), lower standard deviation of error and higher coefficient of determination (R²) in relation to models S2, Watt-Fereday, Bomkamp, Riboud (Vargas et al., 2001), Duchesne, ANNliq (Duchesne et al., 2013) and FactSage® 7.2 (tab _metrics_).
 
 The test database can be downloaded from the file _test_data_1_x.csv_ (with delimiter being tab, the "\t"), with the 19 different chemical species (%mass) and temperature (K) as well as the viscosity (log η) (η - Pa.s).
 
