@@ -14,7 +14,7 @@ A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.1.exe (upd
 
 ## Testing
 
-Through a database with 6358 different chemical composition data, temperature and viscosity measured experimentally, a preprocessing was carried out relating chain depolymerization (NBO/T) and liquidus temperature (Tliq) parameters (Vargas et al., 2001). A database for training, validation and testing was separated. The test dataset was *not* used for training the neural network.
+Through a database with 6358 different chemical composition data, temperature and viscosity measured experimentally, a preprocessing was carried out relating chain depolymerization (NBO/T) and liquidus temperature (Tliq) parameters (Vargas et al., 2001). A database for training, validation and testing was separated. The test dataset was _not_ used for training the neural network.
 
 The test database can be seen at the link:
 https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0xWNI/edit?usp=sharing.
@@ -27,7 +27,7 @@ The test database can be downloaded from the file _test_data_1_x.csv_ (with deli
 
 The Viskositas 1_x version model is a deep neural network with arbitrary depth built using the minimum width equation developed by Kidger and Lyons (2020) to the continuous function classes endowed with an uniform norm.
 
-A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). Training and validation graphs, computational model graph, histograms and parameters distributions can be seen at the link:
+A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). The EarlyStopping technique was used to avoid overfitting. Training and validation graphs, computational model graph, histograms and parameters distributions can be seen at the link:
 X
 
 # Contact
