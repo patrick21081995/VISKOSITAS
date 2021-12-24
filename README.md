@@ -21,6 +21,13 @@ https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0x
 
 With the test database (tab _test_data_) predictions were performed in Viskositas 1_x version, 12 literature models and in FactSage® 7.2 software (tab _predictions_). Viskositas 1_X version showed lower mean absolute error (MAE), lower standard deviation of error and higher coefficient of determination (R²) in relation to models S2, Watt-Fereday, Bomkamp, Riboud (Vargas et al., 2001), Duchesne, ANNliq (Duchesne et al., 2013) and FactSage® 7.2 (tab _metrics_).
 
+## Advanced
+
+The Viskositas 1_x version model is a deep neural network with arbitrary depth built using the minimum width equation developed by Kidger and Lyons (2020) to the continuous function classes endowed with an uniform norm.
+
+A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). Training and validation graphs, computational model graph, histograms and parameter distribution can be seen at the link:
+X
+
 # Contact
 
 - E-mail: patrick.dosanjos@outlook.com
@@ -39,6 +46,8 @@ With the test database (tab _test_data_) predictions were performed in Viskosita
 - Anjos, Patrick Queiroz dos. Ifes, Vitória, p. 51-52, 2021. https://repositorio.ifes.edu.br/handle/123456789/1195
 
 - S. Vargas, F.J. Frandsen, K. Dam-Johansen. Progress in Energy and Combustion Science. p. 237±429, v. 27, 2001. https://doi.org/10.1016/S0360-1285(00)00023-X
+
+- Patrick Kidger, Terry Lyons. Proceedings of Machine Learning Research. p. 1–22, v. 125, 2020. https://arxiv.org/abs/1905.08539
 
 ### Viskositas 0.4.1 (Beta) overview:
 
