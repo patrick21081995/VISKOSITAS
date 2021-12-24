@@ -1,6 +1,6 @@
 # Viskositas
 
-### Viskositas  — Predict viscosity of multicomponent chemical systems
+## Viskositas  — Predict viscosity of multicomponent chemical systems
 
 _Viskositas_ (Beta) is a deep neural network and has better efficiency when compared to classic equations, neural networks in literature and other commercial software and uses the values of chemical composition and temperature to predict the viscosity value of the chemical system at the given temperature.
 
@@ -11,6 +11,16 @@ There is a wide range of temperature in industrial processes, such as in the pro
 All references used in mathematical and computational modeling, database, data analysis and computational model construction can be seen in the work of Duchesne et al. (2013), Chen et al. (2021) and Anjos (2021).
 
 A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.1.exe (updates can be seen in versions_update) (Viskositas 1.0.1 will be avaible soon!!)
+
+#### Testing
+
+### Testing
+
+Through a database with 6358 different chemical composition data, temperature and viscosity measured experimentally, a pre-treatment was carried out relating chain depolymerization parameters (NBO/T) and liquidus temperature (Tliq) (Vargas et al., 2021). A database for training, validation and testing was separated. The test dataset was _not_ used for training the neural network.
+
+The test database can be seen at the link in https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0xWNI/edit?usp=sharing.
+
+With the test database (tab _test_data_) predictions were performed in Viskositas 1_x version, 12 literature models and in FactSage® 7.2 software (tab _predictions_). Viskositas 1_X version showed lower mean absolute error (MAE), lower standard deviation of error and higher coefficient of determination (R²) in relation to models S2, Watt-Fereday, Bomkamp, Riboud (Vargas et al., 2011), Duchesne, ANNliq (Duchesne et al., 2013) and FactSage® 7.2 (_metrics_ tab).
 
 # Contact
 
