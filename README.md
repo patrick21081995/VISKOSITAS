@@ -27,7 +27,7 @@ The test database can be downloaded from the file _test_data_1_x.csv_ (with deli
 
 The Viskositas 1_x version model is a deep neural network with arbitrary depth built using the minimum width equation developed by Kidger and Lyons (2020) to the continuous function classes endowed with an uniform norm.
 
-A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). Training and validation graphs, computational model graph, histograms and parameter distribution can be seen at the link:
+A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). Training and validation graphs, computational model graph, histograms and parameters distributions can be seen at the link:
 X
 
 # Contact
