@@ -10,7 +10,7 @@ There is a wide range of temperature in industrial processes, such as in the pro
 
 All references used in mathematical and computational modeling, database, data analysis and computational model construction can be seen in the work of Duchesne et al. (2013), Chen et al. (2021) and Anjos (2021).
 
-A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.1.exe (updates can be seen in versions_update) (Viskositas 1.0.1 will be avaible soon!!)
+A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.1.exe (updates can be seen in versions_update) (Viskositas 1.0 will be avaible soon!!)
 
 ## Testing
 
