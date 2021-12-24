@@ -21,6 +21,8 @@ https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0x
 
 With the test database (tab _test_data_) predictions were performed in Viskositas 1_x version, 12 literature models and in FactSage® 7.2 software (tab _predictions_). Viskositas 1_X version showed lower mean absolute error (MAE), lower standard deviation of error and higher coefficient of determination (R²) in relation to models S2, Watt-Fereday, Bomkamp, Riboud (Vargas et al., 2001), Duchesne, ANNliq (Duchesne et al., 2013) and FactSage® 7.2 (tab _metrics_).
 
+The test database can be downloaded from the file _test_data_1_x.csv_ (with delimiter being tab, the "\t"), with the 19 different chemical species (%mass) and temperature (K) as well as the viscosity (log η) (η - Pa.s).
+
 ## Advanced
 
 The Viskositas 1_x version model is a deep neural network with arbitrary depth built using the minimum width equation developed by Kidger and Lyons (2020) to the continuous function classes endowed with an uniform norm.
@@ -49,6 +51,6 @@ X
 
 - Patrick Kidger, Terry Lyons. Proceedings of Machine Learning Research. p. 1–22, v. 125, 2020. https://arxiv.org/abs/1905.08539
 
-### Viskositas 0.4.1 (Beta) overview:
+## Viskositas 0.4.1 (Beta) overview:
 
 ![Sem título](https://user-images.githubusercontent.com/72185214/141020004-2811ccd4-7c68-48f8-bd76-449497744628.png)
