@@ -34,7 +34,7 @@ Viskositas is a GUI application available for download (Lite version) (for the f
 
 _Example using Viskositas Lite 1.0_
 
-1 - Download the _viskositas_lite_1_0.zip_ file;
+1 - Download the _viskositas_lite_1_0.zip_ file in Versions > viskositas_lite_1_0.zip;
 
 FOTO
 
