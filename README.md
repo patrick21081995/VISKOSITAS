@@ -10,8 +10,6 @@ There is a wide range of temperature in industrial processes, such as in the pro
 
 All references used in mathematical and computational modeling, database, data analysis and computational model construction can be seen in the work of Duchesne et al. (2013), Chen et al. (2021) and Anjos (2021).
 
-A GUI application can be downloaded in Versions > VISKOSITAS_Beta_0.4.1.exe (updates can be seen in versions_update) (Viskositas 1.0 will be avaible soon!!)
-
 ## Testing
 
 Through a database with 6358 different chemical composition data, temperature and viscosity measured experimentally, a preprocessing was carried out relating chain depolymerization (NBO/T) and liquidus temperature (Tliq) parameters (Vargas et al., 2001). A database for training, validation and testing was separated. The test dataset was _not_ used for training the neural network.
@@ -29,6 +27,26 @@ The Viskositas 1_x version model is a deep neural network with arbitrary depth b
 
 A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). The EarlyStopping technique was used to avoid overfitting. Training and validation graphs, computational model graph, histograms and parameters distributions can be seen at the link:
 X
+
+# How to use?
+
+Viskositas is a GUI application available for download (Lite version) (for the full version, contact us). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in fractions of seconds the viscosity of thousands/millions chemical compositions at specified temperatures.
+
+_Example using Viskositas (Beta) 1.0_
+
+1 - Download the _viskositas_lite_1_0.zip_ file;
+
+FOTO
+
+2 - Extract the file;
+
+FOTO
+
+3 - Use it through the .exe file with the same name as the .zip file;
+
+FOTO
+
+And ready to use!
 
 # Contact
 
