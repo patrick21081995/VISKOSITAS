@@ -2,7 +2,7 @@
 
 ## Viskositas  — Predict viscosity of multicomponent chemical systems
 
-_Viskositas_ (Beta) is a deep neural network and has better efficiency when compared to classic equations, neural networks in literature and other commercial software and uses the values of chemical composition and temperature to predict the viscosity value of the chemical system at the given temperature.
+_Viskositas_ is a deep neural network and has better efficiency when compared to classic equations, neural networks in literature and other commercial software and uses the values of chemical composition and temperature to predict the viscosity value of the chemical system at the given temperature.
 
 The database consists viscosity data with chemical composition and temperature of each sample and experimental test carried out, through tens international scientific articles composing a database with 19 different chemical species. The experimental measurements were analyzed only by the rotational method. The database has a range up to log₁₀ η=8 (or log η≈18.42) (log = logₑ) in fully liquid chemical systems.
 
@@ -32,7 +32,7 @@ X
 
 Viskositas is a GUI application available for download (Lite version) (for the full version, contact us). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in fractions of seconds the viscosity of thousands/millions chemical compositions at specified temperatures.
 
-_Example using Viskositas (Beta) 1.0_
+_Example using Viskositas Lite 1.0_
 
 1 - Download the _viskositas_lite_1_0.zip_ file;
 
@@ -68,7 +68,3 @@ And ready to use!
 - S. Vargas, F.J. Frandsen, K. Dam-Johansen. Progress in Energy and Combustion Science. p. 237±429, v. 27, 2001. https://doi.org/10.1016/S0360-1285(00)00023-X
 
 - Patrick Kidger, Terry Lyons. Proceedings of Machine Learning Research. p. 1–22, v. 125, 2020. https://arxiv.org/abs/1905.08539
-
-## Viskositas 0.4.1 (Beta) overview:
-
-![Sem título](https://user-images.githubusercontent.com/72185214/141020004-2811ccd4-7c68-48f8-bd76-449497744628.png)
