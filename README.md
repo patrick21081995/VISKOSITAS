@@ -29,7 +29,7 @@ A pipeline was built with a preprocessing using standard scaler and the deep neu
 
 # How to use?
 
-Viskositas is a GUI application available for download (Lite version) (for the full version, contact us. See _Contact_). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in fractions of seconds the viscosity of thousands/millions chemical compositions at specified temperatures.
+Viskositas is a GUI application available for download (Lite version) (for the full version, contact us. See _Contact_). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in seconds the viscosity of thousands/millions chemical compositions at specified temperatures.
 
 _Example_ Viskositas Lite y.x (generic version, with y, x ∈ N)
 
