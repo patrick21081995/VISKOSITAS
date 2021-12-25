@@ -20,7 +20,7 @@ https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0x
 With the test database (tab _test_data_) predictions were performed in Viskositas 1.x, 12 literature models and FactSage® 7.2 software (tab _predictions_). Viskositas 1.x showed lower mean absolute error (MAE), lower standard deviation of error and higher coefficient of determination (R²) in relation to models S2, Watt-Fereday, Bomkamp, Riboud (Vargas et al., 2001), Duchesne, ANNliq (Duchesne et al., 2013) and FactSage® 7.2 (tab _metrics_).
 
 | Metrics (η - Pa.s) | Shaw | Watt-Fereday | Bomkamp | Riboud | Duchesne | ANNliq	| Viskositas 1.0 | FactSage® 7.2 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---:	| :---: | :---: |
+| --- | --- | --- | --- | --- | --- | ---	| --- | --- |
 |  Mean Absolute Error (log η) | 1.4217 | 1.5558 | 3.9684 | 2.8301 | 2.8027 | 11.6147 | 0.2309 | 0.8112 |
 | Standard Deviation (log η) | 1.6857 | 1.82183 | 2.2953 | 1.9337 | 2.3038 | 4.8249 | 0.5446 | 1.3348 |
 | Coefficient of Determination (R²) | 0.6452 | 0.6068 | 0.5395 | 0.5297 | 0.1611 | 0.1419 | 0.9864 | 0.8212 |
