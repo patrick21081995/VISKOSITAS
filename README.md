@@ -19,6 +19,12 @@ https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0x
 
 With the test database (tab _test_data_) predictions were performed in Viskositas 1.x, 12 literature models and FactSage® 7.2 software (tab _predictions_). Viskositas 1.x showed lower mean absolute error (MAE), lower standard deviation of error and higher coefficient of determination (R²) in relation to models S2, Watt-Fereday, Bomkamp, Riboud (Vargas et al., 2001), Duchesne, ANNliq (Duchesne et al., 2013) and FactSage® 7.2 (tab _metrics_).
 
+| Metrics (η - Pa.s) | Shaw | Watt-Fereday | Bomkamp | Riboud | Duchesne | ANNliq	| Viskositas 1.0 | FactSage® 7.2 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:	| :---: | :---: |
+|  Mean Absolute Error (log η) | 1.4217 | 1.5558 | 3.9684 | 2.8301 | 2.8027 | 11.6147 | 0.2309 | 0.8112 |
+| Standard Deviation (log η) | 1.6857 | 1.82183 | 2.2953 | 1.9337 | 2.3038 | 4.8249 | 0.5446 | 1.3348 |
+| Coefficient of Determination (R²) | 0.6452 | 0.6068 | 0.5395 | 0.5297 | 0.1611 | 0.1419 | 0.9864 | 0.8212 |
+
 The test database can be downloaded from the file _test_data_1_x.csv_ (with delimiter being tab, the "\t"), with the 19 different chemical species (%mass) and temperature (K) as well as the viscosity (log η) (η - Pa.s).
 
 ## Advanced
@@ -26,6 +32,10 @@ The test database can be downloaded from the file _test_data_1_x.csv_ (with deli
 The Viskositas 1.x model is a deep neural network with arbitrary depth built using the minimum width equation developed by Kidger and Lyons (2020) to the continuous function classes endowed with an uniform norm.
 
 A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). The EarlyStopping technique was used to avoid overfitting. Training and validation graphs, computational model graph, histograms and parameters distributions can be seen at the link: https://tensorboard.dev/experiment/iqwQDtyJReWnzB2CkvUJIg/#scalars
+
+### Viskositas 1.0 graph (partial)
+
+![fit_train](https://user-images.githubusercontent.com/72185214/147387873-33cee9a4-0a00-49f6-8883-0812c03ccfd8.png)
 
 # How to use?
 
