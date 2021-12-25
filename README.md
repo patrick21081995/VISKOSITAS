@@ -12,18 +12,18 @@ All references used in mathematical and computational modeling, database, data a
 
 ## Testing
 
-Through a database with 6358 different chemical composition data, temperature and viscosity measured experimentally, a preprocessing was carried out relating chain depolymerization (NBO/T) and liquidus temperature (Tliq) parameters (Vargas et al., 2001). A database for training, validation and testing was separated. The test dataset was _not_ used for training the neural network.
+Through a database with 6358 different chemical composition data, temperature and viscosity measured experimentally, a preprocessing was carried out relating chain depolymerization (NBO/T) and liquidus temperature (Tliq) parameters (Vargas et al., 2001). A database for training, validation and testing was separated. The test dataset was **not** used for training the neural network.
 
 The test database can be seen at the link:
 https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0xWNI/edit?usp=sharing.
 
 With the test database (tab _test_data_) predictions were performed in Viskositas 1.x, 12 literature models and FactSage® 7.2 software (tab _predictions_). Viskositas 1.x showed lower mean absolute error (MAE), lower standard deviation of error and higher coefficient of determination (R²) in relation to models S2, Watt-Fereday, Bomkamp, Riboud (Vargas et al., 2001), Duchesne, ANNliq (Duchesne et al., 2013) and FactSage® 7.2 (tab _metrics_).
 
-| Metrics (η - Pa.s) | Shaw | Watt-Fereday | Bomkamp | Riboud | Duchesne | ANNliq	| Viskositas 1.0 | FactSage® 7.2 |
-| --- | --- | --- | --- | --- | --- | ---	| --- | --- |
-|  Mean Absolute Error (log η) | 1.4217 | 1.5558 | 3.9684 | 2.8301 | 2.8027 | 11.6147 | 0.2309 | 0.8112 |
-| Standard Deviation (log η) | 1.6857 | 1.82183 | 2.2953 | 1.9337 | 2.3038 | 4.8249 | 0.5446 | 1.3348 |
-| Coefficient of Determination (R²) | 0.6452 | 0.6068 | 0.5395 | 0.5297 | 0.1611 | 0.1419 | 0.9864 | 0.8212 |
+| Metrics (η - Pa.s) | Shaw | Watt-Fereday | Bomkamp | Riboud | Duchesne | ANNliq	| **Viskositas 1.0** | FactSage® 7.2 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:	| :---: | :---: |
+|  Mean Absolute Error (log η) | 1.4217 | 1.5558 | 3.9684 | 2.8301 | 2.8027 | 11.6147 | **0.2309** | 0.8112 |
+| Standard Deviation (log η) | 1.6857 | 1.82183 | 2.2953 | 1.9337 | 2.3038 | 4.8249 | **0.5446** | 1.3348 |
+| Coefficient of Determination (R²) | 0.6452 | 0.6068 | 0.5395 | 0.5297 | 0.1611 | 0.1419 | **0.9864** | 0.8212 |
 
 The test database can be downloaded from the file _test_data_1_x.csv_ (with delimiter being tab, the "\t"), with the 19 different chemical species (%mass) and temperature (K) as well as the viscosity (log η) (η - Pa.s).
 
@@ -41,7 +41,7 @@ A pipeline was built with a preprocessing using standard scaler and the deep neu
 
 Viskositas is a GUI application available for download (Lite version) (for the full version, contact us. See _Contact_). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in seconds the viscosity of thousands/millions chemical compositions at specified temperatures. The Viskositas 0.x can be downloaded in Versions > VISKOSITAS_0_x.exe and Viskositas Lite 1.0 (Beta) can be downloaded via the link: https://drive.google.com/uc?export=download&id=1XKDW8zfvUyWsAFE-qnc-CLUvg3-rGmVY
 
-After downloading the .zip folder, extract it to a desired directory and open the .exe file _with the same name as the .zip_ folder. 
+After downloading the .zip folder, extract it to a desired directory and open the .exe file **with the _same name_ as the .zip_ folder**. 
 
 ## Viskositas Lite 1.0 (Beta) overview
 
