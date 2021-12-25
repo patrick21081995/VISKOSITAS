@@ -24,6 +24,7 @@ With the test database (tab _test_data_) predictions were performed in Viskosita
 |  Mean Absolute Error (log η) | 1.4217 | 1.5558 | 3.9684 | 2.8301 | 2.8027 | 11.6147 | **0.2309** | 0.8112 |
 | Standard Deviation (log η) | 1.6857 | 1.82183 | 2.2953 | 1.9337 | 2.3038 | 4.8249 | **0.5446** | 1.3348 |
 | Coefficient of Determination (R²) | 0.6452 | 0.6068 | 0.5395 | 0.5297 | 0.1611 | 0.1419 | **0.9864** | 0.8212 |
+
 *η - Pa.s
 
 The test database can be downloaded from the file _test_data_1_x.csv_ (with delimiter being tab, the "\t"), with the 19 different chemical species (%mass) and temperature (K) as well as the viscosity (log η) (η - Pa.s).
