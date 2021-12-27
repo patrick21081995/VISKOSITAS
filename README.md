@@ -35,7 +35,7 @@ The Viskositas 1.x model is a deep neural network with arbitrary depth built usi
 
 A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). The EarlyStopping technique was used to avoid overfitting. Training and validation graphs, computational model graph, histograms and parameters distributions can be seen at the link: https://tensorboard.dev/experiment/iqwQDtyJReWnzB2CkvUJIg/#scalars
 
-### Viskositas 1.0 graph (partial)
+### Viskositas 1.0 Subgraph
 
 ![fit_train](https://user-images.githubusercontent.com/72185214/147387873-33cee9a4-0a00-49f6-8883-0812c03ccfd8.png)
 
