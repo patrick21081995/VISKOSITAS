@@ -56,7 +56,7 @@ After downloading the .zip folder, extract it to a desired directory and open th
 
 # License
 
-© 2022, Patrick Queiroz dos Anjos. Licensed under the MIT License.
+© 2021, Patrick Queiroz dos Anjos. Licensed under the MIT License.
 
 # References
 
