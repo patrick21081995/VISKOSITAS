@@ -35,13 +35,13 @@ The Viskositas 1.x model is a deep neural network with arbitrary depth built usi
 
 A pipeline was built with a preprocessing using standard scaler and the deep neural network developed through Keras (TensorFlow backend). The EarlyStopping technique was used to avoid overfitting. Training and validation graphs, computational model graph, histograms and parameters distributions can be seen at the link: https://tensorboard.dev/experiment/iqwQDtyJReWnzB2CkvUJIg/#scalars
 
-### Viskositas 1.0 Subgraph
+### Viskositas 1.x Subgraph
 
 ![fit_train](https://user-images.githubusercontent.com/72185214/147387873-33cee9a4-0a00-49f6-8883-0812c03ccfd8.png)
 
 # How to use?
 
-Viskositas is a GUI application available for download (Lite version) (for the full version, contact us. See **Contact**). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in seconds the viscosity of thousands/millions chemical compositions at specified temperatures. The Viskositas 0.x can be downloaded in Versions > VISKOSITAS_0_x.exe and Viskositas Lite 1.0 (Beta) can be downloaded via the link: https://drive.google.com/uc?export=download&id=1XKDW8zfvUyWsAFE-qnc-CLUvg3-rGmVY
+Viskositas is a GUI application available for download (Lite version) (for the full version, contact us. See **Contact**). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in seconds the viscosity of thousands/millions chemical compositions at specified temperatures. The Viskositas 0.x can be downloaded in Versions > VISKOSITAS_0_x.exe and Viskositas Lite 1.0.1 can be downloaded via the link: https://drive.google.com/uc?export=download&id=1Uowt735GeX3_vdrMei4icP4pWtqkPU3Z
 
 After downloading the .zip folder, extract it to a desired directory and open the .exe file **with the _same name_ as the .zip_ folder**. 
 
