@@ -37,7 +37,7 @@ A pipeline was built with a preprocessing using standard scaler and the deep neu
 
 ### Viskositas 1.x Subgraph
 
-![fit_train](https://user-images.githubusercontent.com/72185214/147387873-33cee9a4-0a00-49f6-8883-0812c03ccfd8.png)
+![Sem título](https://user-images.githubusercontent.com/72185214/153109232-1784677f-cf64-445f-adc9-74af5776339a.png)
 
 # How to use?
 
