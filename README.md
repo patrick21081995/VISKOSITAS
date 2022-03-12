@@ -12,7 +12,7 @@ All references used in mathematical and computational modeling, database, data a
 
 ## Testing
 
-Through a database with 6358 different chemical composition data, temperature and viscosity measured experimentally (**_database_viskositas_1_x.d_** file), a preprocessing was carried out relating chain depolymerization (NBO/T) and liquidus temperature (Tliq) parameters (Vargas et al., 2001). A database for training, validation and testing was separated. The test dataset was **NOT** used for training the neural network.
+Through a database with 6358 different chemical composition data, temperature and viscosity measured experimentally, a preprocessing was carried out relating chain depolymerization (NBO/T) and liquidus temperature (Tliq) parameters (Vargas et al., 2001). A database for training, validation and testing was separated. The test dataset was **NOT** used for training the neural network.
 
 The test database can be seen at the link:
 https://docs.google.com/spreadsheets/d/1D2P586GdPxGDtiExOhSxcPoetDIa8basNCdQz-0xWNI/edit?usp=sharing.
@@ -26,8 +26,6 @@ With the test database (tab _test_data_) predictions were performed in Viskosita
 | Coefficient of Determination (R²) | 0.6452 | 0.6068 | 0.5395 | 0.5297 | 0.1611 | 0.1419 | **_0.9864_** | 0.8212 |
 
 *η - Pa.s
-
-The test database can be downloaded from the **_test_database_viskositas_1_x.d_** file.
 
 ## Advanced
 
