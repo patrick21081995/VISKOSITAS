@@ -2,7 +2,7 @@
 
 ## Viskositas  — Predict viscosity of multicomponent chemical systems
 
-**_Viskositas_** is a deep neural network and has better efficiency when compared to classic equations, neural networks in literature and other commercial software and uses the values of chemical composition and temperature to predict the viscosity value of the chemical system at the given temperature.
+**_Viskositas_** is a commercial software with a deep neural network and has better efficiency when compared to classic equations, neural networks in literature and other commercial software and uses the values of chemical composition and temperature to predict the viscosity value of the chemical system at the given temperature.
 
 The database consists viscosity data with chemical composition and temperature of each sample and experimental test carried out, through tens international scientific articles composing a database with 19 different chemical species. The database has a range up to log₁₀ η=8 (or log η≈18.42) (log = logₑ) in fully liquid chemical systems.
 
@@ -39,7 +39,7 @@ A pipeline was built with a preprocessing using standard scaler and the deep neu
 
 # How to use?
 
-Viskositas is a GUI application available for download ( versions > **1.x** in the full version, see **Contact**). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in seconds the viscosity of thousands/millions chemical compositions at specified temperatures. The Viskositas 0.x and/or Viskositas 1.x Lite can be downloaded in _Versions_ folder.
+Viskositas is a GUI application available for download (versions > **1.x** in the full version, see **Contact** to make a specialized budget). The full version has customization, specialized technical assistance and Multi-Viskositas, an option capable of predicting in seconds the viscosity of thousands/millions chemical compositions at specified temperatures. The Viskositas 0.x and/or Viskositas 1.x Lite can be downloaded in _Versions_ folder.
 
 ## Viskositas Lite 1.0.1 overview
 
