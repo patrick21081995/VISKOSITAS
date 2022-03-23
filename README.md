@@ -47,6 +47,7 @@ Viskositas is a GUI application available for download (versions > **1.x** in th
 
 # Contact
 
+- Site: https://www.patrickdosanjos.com/
 - E-mail: patrick.dosanjos@outlook.com
 - Linkedin: https://www.linkedin.com/in/patrick-queiroz-dos-anjos/
 
