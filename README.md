@@ -57,12 +57,12 @@ Viskositas is a GUI application available for download (versions > **1.x** in th
 
 # References
 
-- Duchesne, M., Bronsch, A., Hughes, R., Masset, P. Fuel. p. 38-43, v. 114, 2013. http://dx.doi.org/10.1016/j.fuel.2012.03.010
+- Duchesne M, Bronsch A, Hughes R, Masset P. Fuel. 2013;114;38-43. http://dx.doi.org/10.1016/j.fuel.2012.03.010
 
-- Ziwei Chen, Minghao Wang, Zhao Meng, Hao Wang, Lili Liu, Xidong Wang. Ceramics International. p. 30691-30701, v. 47, 2021. https://doi.org/10.1016/j.ceramint.2021.07.248.
+- Chen Z, Wang M, Meng Z, Wang H, Liu L, Wang X. Ceramics International. 2021;47;30691-30701. https://doi.org/10.1016/j.ceramint.2021.07.248.
 
-- Anjos, Patrick Queiroz dos. Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo. p. 51-52, 2021. https://repositorio.ifes.edu.br/handle/123456789/1195
+- Anjos PQ. Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo. 2021;51-52. Portuguese. https://repositorio.ifes.edu.br/handle/123456789/1195
 
-- S. Vargas, F.J. Frandsen, K. Dam-Johansen. Progress in Energy and Combustion Science. p. 237±429, v. 27, 2001. https://doi.org/10.1016/S0360-1285(00)00023-X
+- Vargas S, Frandsen FJ, Dam-Johansen K. Progress in Energy and Combustion Science. 2001;27;237±429. https://doi.org/10.1016/S0360-1285(00)00023-X
 
-- Patrick Kidger, Terry Lyons. Proceedings of Machine Learning Research. p. 1–22, v. 125, 2020. https://arxiv.org/abs/1905.08539
+- Kidger P, Lyons T. Proceedings of Machine Learning Research. 2020;125;1–22. https://arxiv.org/abs/1905.08539
