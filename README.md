@@ -45,6 +45,10 @@ Viskositas is a GUI application available for download (versions > **1.x** in th
 
 ![Sem título](https://user-images.githubusercontent.com/72185214/153110688-63f29946-94af-4d02-a178-b1ea57bb01d8.png)
 
+# Paper
+
+- Anjos PQ. Viskositas: Viscosity Prediction of Multicomponent Chemical Systems. arXiv. 2022. https://arxiv.org/abs/2208.01440
+
 # Contact
 
 - Site: https://www.patrickdosanjos.com/
@@ -66,3 +70,5 @@ Viskositas is a GUI application available for download (versions > **1.x** in th
 - Vargas S, Frandsen FJ, Dam-Johansen K. Progress in Energy and Combustion Science. 2001;27;237±429. https://doi.org/10.1016/S0360-1285(00)00023-X
 
 - Kidger P, Lyons T. Proceedings of Machine Learning Research. 2020;125;1–22. https://arxiv.org/abs/1905.08539
+
+- Anjos PQ. Viskositas: Viscosity Prediction of Multicomponent Chemical Systems. arXiv. 2022. https://arxiv.org/abs/2208.01440
